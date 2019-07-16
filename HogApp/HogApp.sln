@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HogApp", "HogApp\HogApp.csproj", "{4BBA0161-05AC-4F7D-B496-36B3173B991D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBA0161-05AC-4F7D-B496-36B3173B991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBA0161-05AC-4F7D-B496-36B3173B991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBA0161-05AC-4F7D-B496-36B3173B991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBA0161-05AC-4F7D-B496-36B3173B991D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A3407E-0111-4FED-81D3-C98DAEA4127E}
+	EndGlobalSection
+EndGlobal
